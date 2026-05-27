@@ -27,6 +27,10 @@ body {
   border-radius: 5px;
 }
 
+.btn:hover {
+  background: #0984e3;
+}
+
 section {
   padding: 60px 20px;
   max-width: 900px;
@@ -74,4 +78,13 @@ section {
   margin: auto;
   font-size: 18px;
   line-height: 1.8;
+}
+
+p a {
+  color: #00b894;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
 }
